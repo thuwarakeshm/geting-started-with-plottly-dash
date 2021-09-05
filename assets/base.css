@@ -1,0 +1,25 @@
+body {
+  background-color: #011833;
+  color: white;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+h1 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+
+.row {
+    display: flex;
+    align-items: center;
+}
+
+.dropdown {
+    width: 500px;
+    padding: .25rem 1rem 1rem 0;
+    color: #011833;
+}
